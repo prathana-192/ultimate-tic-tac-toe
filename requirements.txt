@@ -1,0 +1,5 @@
+streamlit
+pygame
+numpy
+streamlit-image-coordinates
+Pillow
